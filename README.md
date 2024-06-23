@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with yarn.
+
+Live App : <a href="https://cropaggregator.netlify.app/">Crop Aggegator</a>
 
 ![Screenshot (51)](https://github.com/SahilGufran/CropsAggregatorAssignment/assets/59599817/3bf0c3be-1ba1-410c-878d-aace87d35435)
 ![Screenshot (52)](https://github.com/SahilGufran/CropsAggregatorAssignment/assets/59599817/9a9bb41f-9a8f-44fa-9177-bc5224fc0507)
