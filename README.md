@@ -2,9 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot (51)](https://github.com/SahilGufran/CropsAggregatorAssignment/assets/59599817/3bf0c3be-1ba1-410c-878d-aace87d35435)
+![Screenshot (52)](https://github.com/SahilGufran/CropsAggregatorAssignment/assets/59599817/9a9bb41f-9a8f-44fa-9177-bc5224fc0507)
+![Screenshot (53)](https://github.com/SahilGufran/CropsAggregatorAssignment/assets/59599817/1b74c351-5caa-45c1-9b03-8f282f936e1c)
+![Screenshot (54)](https://github.com/SahilGufran/CropsAggregatorAssignment/assets/59599817/7d22c2da-18fc-4d6a-bcb8-ec16d61cad75)
+![Screenshot (55)](https://github.com/SahilGufran/CropsAggregatorAssignment/assets/59599817/81314682-08f5-4fef-82a5-c72ed93f4b5d)
+![Screenshot (56)](https://github.com/SahilGufran/CropsAggregatorAssignment/assets/59599817/68c95836-06fe-4eb6-8d6f-6ae0e47f43a5)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn install` // install all the dependencies
+
+then run
 
 ### `yarn start`
 
